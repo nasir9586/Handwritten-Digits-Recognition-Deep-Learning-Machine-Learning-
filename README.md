@@ -1,4 +1,4 @@
-**MNIST Handwritten Digit Classification**
+## MNIST Handwritten Digit Classification
 This project demonstrates the classification of handwritten digits (0–9) from the MNIST dataset using various machine learning models. It explores preprocessing techniques, builds models, and compares their performances to gain insights into their effectiveness.
 
 **Project Overview**
